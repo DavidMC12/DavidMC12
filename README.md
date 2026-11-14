@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:14532d,100:2EAD33&height=200&section=header&text=David%20Madrid&fontSize=60&fontColor=ffffff&fontAlignY=32&desc=QA%20Automation%20Engineer%20%7C%20Web%20and%20Mobile&descAlignY=50&descSize=18&animation=fadeIn" alt="David Madrid - QA Automation Engineer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=2EAD33&center=true&vCenter=true&width=640&height=50&lines=Playwright+%7C+TypeScript+%7C+Python+%7C+Maestro;Web%2C+Android+and+iOS+tests+running+in+CI;Open+to+remote+roles+with+US+and+European+teams" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=2EAD33&center=true&vCenter=true&width=640&height=50&lines=Playwright+%7C+TypeScript+%7C+Python+%7C+Maestro;Web%2C+Android+and+iOS+tests+running+in+CI;Open+to+remote" alt="Typing animation" />
 
 </div>
 
@@ -13,18 +13,10 @@
 Software Engineer with 4+ years in QA: functional, regression, mobile and API testing in agile teams.
 I automate with **Playwright + TypeScript** (web) and **Maestro / Appium + Python** (mobile), and run everything in CI with GitHub Actions.
 
-```typescript
-const david = {
-  role: "QA Automation Engineer",
-  location: "Colombia 🇨🇴 (UTC-5)",
-  experience: "4+ years in QA",
-  automation: ["Playwright + TypeScript", "Maestro / Appium + Python"],
-  ci: "GitHub Actions",
-  english: "B2",
-  education: "Software Engineering (UNINPAHU)",
-  openToRemote: true, // 👈 US & European teams
-};
-```
+- 💬 Ask me about: mobile test automation, API testing and CI pipelines
+- 🌍 Based in Colombia 🇨🇴 (UTC-5) · English B2
+- 🎓 Software Engineering (UNINPAHU)
+- 📫 Open to remote
 
 ---
 

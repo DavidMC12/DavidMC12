@@ -83,6 +83,6 @@ Also: Allure · SoapUI · SQL · TestRail · Scrum, SAFe, Shape Up
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-davidmc12-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidmc12)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:14532d,100:2EAD33&height=100&section=footer" alt="" />
+<img src="./assets/line.svg" alt="" width="100%" />
 
 </div>

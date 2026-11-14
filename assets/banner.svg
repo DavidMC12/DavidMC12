@@ -4,24 +4,24 @@
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0d1117"/>
-      <stop offset="1" stop-color="#051a0e"/>
+      <stop offset="1" stop-color="#140b2b"/>
     </linearGradient>
     <radialGradient id="glowG" cx="0.12" cy="1.05" r="0.75">
-      <stop offset="0" stop-color="#2EAD33" stop-opacity="0.50"/>
-      <stop offset="1" stop-color="#2EAD33" stop-opacity="0"/>
+      <stop offset="0" stop-color="#8957e5" stop-opacity="0.50"/>
+      <stop offset="1" stop-color="#8957e5" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="glowB" cx="0.97" cy="-0.05" r="0.7">
-      <stop offset="0" stop-color="#1f6feb" stop-opacity="0.38"/>
-      <stop offset="1" stop-color="#1f6feb" stop-opacity="0"/>
+      <stop offset="0" stop-color="#5a4fe0" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#5a4fe0" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#ffffff"/>
-      <stop offset="1" stop-color="#7ee787"/>
+      <stop offset="1" stop-color="#d2a8ff"/>
     </linearGradient>
     <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#3fb950" stop-opacity="0.9"/>
+      <stop offset="0" stop-color="#a371f7" stop-opacity="0.9"/>
       <stop offset="0.5" stop-color="#30363d" stop-opacity="0.6"/>
-      <stop offset="1" stop-color="#388bfd" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#6e56cf" stop-opacity="0.9"/>
     </linearGradient>
     <linearGradient id="gridFade" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#fff" stop-opacity="0.9"/>
@@ -37,12 +37,12 @@
   <style>
     .sans { font-family: -apple-system, "Segoe UI", Inter, Helvetica, Arial, sans-serif; }
     .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "DejaVu Sans Mono", monospace; }
-    .l2 { animation: r2 8s ease-out infinite; }
-    .l3 { animation: r3 8s ease-out infinite; }
-    .l4 { animation: r4 8s ease-out infinite; }
-    .l5 { animation: r5 8s ease-out infinite; }
+    .l2 { animation: r2 6s ease-out infinite; }
+    .l3 { animation: r3 6s ease-out infinite; }
+    .l4 { animation: r4 6s ease-out infinite; }
+    .l5 { animation: r5 6s ease-out infinite; }
     .blink { animation: blink 1s steps(1) infinite; }
-    .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2.2s ease-out infinite; }
+    .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2s ease-out infinite; }
     @keyframes r2 { 0%,10% {opacity:0; transform:translateX(-8px)} 16%,92% {opacity:1; transform:none} 98%,100% {opacity:0} }
     @keyframes r3 { 0%,24% {opacity:0; transform:translateX(-8px)} 30%,92% {opacity:1; transform:none} 98%,100% {opacity:0} }
     @keyframes r4 { 0%,38% {opacity:0; transform:translateX(-8px)} 44%,92% {opacity:1; transform:none} 98%,100% {opacity:0} }
@@ -62,13 +62,13 @@
 
   <!-- Left: name and role -->
   <text class="sans" x="58" y="132" font-size="66" font-weight="800" fill="url(#title)" letter-spacing="-1">David Madrid</text>
-  <text class="sans" x="60" y="176" font-size="19" font-weight="700" fill="#3fb950" letter-spacing="4">QA AUTOMATION ENGINEER</text>
+  <text class="sans" x="60" y="176" font-size="19" font-weight="700" fill="#a371f7" letter-spacing="4">QA AUTOMATION ENGINEER</text>
   <text class="sans" x="60" y="206" font-size="18" fill="#8b949e">Web  ·  Android  ·  iOS</text>
 
   <!-- Status pill -->
-  <rect x="60" y="232" width="168" height="34" rx="17" fill="#2EAD33" fill-opacity="0.12" stroke="#3fb950" stroke-opacity="0.55"/>
-  <circle class="pulse" cx="82" cy="249" r="5" fill="#3fb950"/>
-  <circle cx="82" cy="249" r="5" fill="#3fb950"/>
+  <rect x="60" y="232" width="168" height="34" rx="17" fill="#8957e5" fill-opacity="0.12" stroke="#a371f7" stroke-opacity="0.55"/>
+  <circle class="pulse" cx="82" cy="249" r="5" fill="#a371f7"/>
+  <circle cx="82" cy="249" r="5" fill="#a371f7"/>
   <text class="sans" x="98" y="254" font-size="15" font-weight="600" fill="#e6edf3">Open to remote</text>
 
   <!-- Right: terminal card -->
@@ -79,25 +79,25 @@
   <circle cx="603" cy="62" r="5" fill="#27c93f"/>
   <text class="mono" x="625" y="66" font-size="12" fill="#8b949e">test run</text>
 
-  <text class="mono" x="567" y="110" font-size="15" fill="#e6edf3"><tspan fill="#3fb950">$</tspan> npx playwright test</text>
+  <text class="mono" x="567" y="110" font-size="15" fill="#e6edf3"><tspan fill="#a371f7">$</tspan> npx playwright test</text>
 
   <g class="l2">
-    <text class="mono" x="567" y="145" font-size="17" font-weight="700" fill="#3fb950">✓</text>
+    <text class="mono" x="567" y="145" font-size="17" font-weight="700" fill="#a371f7">✓</text>
     <text class="mono" x="590" y="145" font-size="15" fill="#e6edf3">web</text>
     <text class="mono" x="668" y="145" font-size="14" fill="#8b949e">chromium · firefox · webkit</text>
   </g>
   <g class="l3">
-    <text class="mono" x="567" y="175" font-size="17" font-weight="700" fill="#3fb950">✓</text>
+    <text class="mono" x="567" y="175" font-size="17" font-weight="700" fill="#a371f7">✓</text>
     <text class="mono" x="590" y="175" font-size="15" fill="#e6edf3">android</text>
     <text class="mono" x="668" y="175" font-size="14" fill="#8b949e">maestro</text>
   </g>
   <g class="l4">
-    <text class="mono" x="567" y="205" font-size="17" font-weight="700" fill="#3fb950">✓</text>
+    <text class="mono" x="567" y="205" font-size="17" font-weight="700" fill="#a371f7">✓</text>
     <text class="mono" x="590" y="205" font-size="15" fill="#e6edf3">ios</text>
     <text class="mono" x="668" y="205" font-size="14" fill="#8b949e">maestro</text>
   </g>
   <g class="l5">
-    <text class="mono" x="567" y="236" font-size="15" fill="#e6edf3"><tspan fill="#3fb950">$</tspan></text>
-    <rect class="blink" x="582" y="224" width="9" height="16" fill="#3fb950"/>
+    <text class="mono" x="567" y="236" font-size="15" fill="#e6edf3"><tspan fill="#a371f7">$</tspan></text>
+    <rect class="blink" x="582" y="224" width="9" height="16" fill="#a371f7"/>
   </g>
 </svg>

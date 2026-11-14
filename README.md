@@ -83,6 +83,6 @@ Also: Allure · SoapUI · SQL · TestRail · Scrum, SAFe, Shape Up
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-davidmc12-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidmc12)
 
-<img src="./assets/line.svg" alt="" width="100%" />
+<img src="./assets/cats.svg" alt="Four pixel cats: an old black cat eats and sleeps, a black cat juggles a ball, a gray cat with a white chest runs behind a README window and a spotted black cat peeks from behind it." width="100%" />
 
 </div>

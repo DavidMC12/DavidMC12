@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:14532d,100:2EAD33&height=200&section=header&text=David%20Madrid&fontSize=60&fontColor=ffffff&fontAlignY=32&desc=QA%20Automation%20Engineer%20%7C%20Web%20and%20Mobile&descAlignY=50&descSize=18&animation=fadeIn" alt="David Madrid - QA Automation Engineer" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=2EAD33&center=true&vCenter=true&width=640&height=50&lines=Playwright+%7C+TypeScript+%7C+Python+%7C+Maestro;Web%2C+Android+and+iOS+tests+running+in+CI;Open+to+remote" alt="Typing animation" />
+<img src="./assets/banner.svg" alt="David Madrid - QA Automation Engineer. Web, Android and iOS test automation. Open to remote." width="100%" />
 
 </div>
 

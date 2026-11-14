@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header-cats.svg" alt="David Madrid - QA Automation Engineer. Web, Android and iOS test automation. Open to remote. Four pixel cats live on a shelf above the name." width="100%" />
+<img src="./assets/profile-header.svg" alt="David Madrid - QA Automation Engineer. Web, Android and iOS test automation. Open to remote. Four pixel cats live on a shelf above the name." width="100%" />
 
 </div>
 

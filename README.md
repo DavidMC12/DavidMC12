@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner-terminal.svg" alt="David Madrid - QA Automation Engineer. Web, Android and iOS test automation. Open to remote." width="100%" />
+<img src="./assets/header.svg" alt="David Madrid - QA Automation Engineer. Web, Android and iOS test automation. Open to remote." width="100%" />
 
 </div>
 

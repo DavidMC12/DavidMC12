@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" alt="David Madrid - QA Automation Engineer. Web, Android and iOS test automation. Open to remote. Four pixel cats live on a shelf above the name." width="100%" />
+<img src="./assets/header-duo.svg" alt="David Madrid - QA Automation Engineer. Web, Android and iOS test automation. Open to remote. Two pixel cats live on a shelf above the name: an old black cat that eats and sleeps, and a gray tabby chasing a sparkle." width="100%" />
 
 </div>
 
